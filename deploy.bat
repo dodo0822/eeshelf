@@ -1,0 +1,1 @@
+copy BUILD\NUCLEO_F429ZI\GCC_ARM\eeshelf.bin d:\
